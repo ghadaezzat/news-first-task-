@@ -29,7 +29,6 @@ if (isset($_GET['cat_id'])){
                 <tr>
                   <th>title</th>
                   <th>tags</th>
-                  <th>category</th>
                   <th></th>
                   <th></th>
                 </tr>
